@@ -1,0 +1,6 @@
+{
+  "name": "UNFORSAKEN™ | Christian Streetwear",
+  "description": "Premium Christian streetwear brand representing faith boldly through heavyweight tees, oversized fleece hoodies, and community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
